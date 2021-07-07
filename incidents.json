@@ -6,7 +6,7 @@
     "delta7": {
       "confirmed": 20,
       "recovered": 35,
-      "tested": 4276,
+      "tested": 5176,
       "vaccinated1": 4931,
       "vaccinated2": 15265
     },
@@ -70,15 +70,15 @@
       "last_updated": "2021-07-06T21:41:15+05:30",
       "population": 397000,
       "tested": {
-        "date": "2021-07-05",
-        "source": "https://dhs.andaman.gov.in/NewEvents/723.pdf"
+        "date": "2021-07-06",
+        "source": "https://dhs.andaman.gov.in/NewEvents/724.pdf"
       }
     },
     "total": {
       "confirmed": 7487,
       "deceased": 128,
       "recovered": 7343,
-      "tested": 414166,
+      "tested": 415066,
       "vaccinated1": 161401,
       "vaccinated2": 35088
     }
@@ -8856,25 +8856,35 @@
     }
   },
   "ML": {
+    "delta": {
+      "confirmed": 354,
+      "deceased": 6,
+      "recovered": 424,
+      "tested": 4029
+    },
     "delta21_14": {
       "confirmed": 3204
     },
     "delta7": {
-      "confirmed": 2845,
-      "deceased": 42,
-      "recovered": 2714,
-      "tested": 22311,
+      "confirmed": 3199,
+      "deceased": 48,
+      "recovered": 3138,
+      "tested": 26340,
       "vaccinated1": 55164,
       "vaccinated2": 9287
     },
     "districts": {
       "East Garo Hills": {
+        "delta": {
+          "confirmed": 13,
+          "recovered": 23
+        },
         "delta21_14": {
           "confirmed": 231
         },
         "delta7": {
-          "confirmed": 62,
-          "recovered": 162,
+          "confirmed": 75,
+          "recovered": 185,
           "vaccinated1": 1633,
           "vaccinated2": 81
         },
@@ -8882,21 +8892,25 @@
           "population": 317618
         },
         "total": {
-          "confirmed": 1360,
+          "confirmed": 1373,
           "deceased": 6,
-          "recovered": 1208,
+          "recovered": 1231,
           "vaccinated1": 22946,
           "vaccinated2": 4563
         }
       },
       "East Jaintia Hills": {
+        "delta": {
+          "confirmed": 17,
+          "recovered": 11
+        },
         "delta21_14": {
           "confirmed": 74
         },
         "delta7": {
-          "confirmed": 68,
+          "confirmed": 85,
           "deceased": 1,
-          "recovered": 87,
+          "recovered": 98,
           "vaccinated1": 2458,
           "vaccinated2": 635
         },
@@ -8904,21 +8918,26 @@
           "population": 122436
         },
         "total": {
-          "confirmed": 1803,
+          "confirmed": 1820,
           "deceased": 20,
-          "recovered": 1688,
+          "recovered": 1699,
           "vaccinated1": 30314,
           "vaccinated2": 3475
         }
       },
       "East Khasi Hills": {
+        "delta": {
+          "confirmed": 161,
+          "deceased": 4,
+          "recovered": 160
+        },
         "delta21_14": {
           "confirmed": 1064
         },
         "delta7": {
-          "confirmed": 990,
-          "deceased": 24,
-          "recovered": 883,
+          "confirmed": 1151,
+          "deceased": 28,
+          "recovered": 1043,
           "vaccinated1": 14491,
           "vaccinated2": 5395
         },
@@ -8926,20 +8945,26 @@
           "population": 824059
         },
         "total": {
-          "confirmed": 27553,
-          "deceased": 646,
-          "recovered": 25468,
+          "confirmed": 27714,
+          "deceased": 650,
+          "recovered": 25628,
           "vaccinated1": 230874,
           "vaccinated2": 30873
         }
       },
       "North Garo Hills": {
+        "delta": {
+          "confirmed": 9,
+          "deceased": 1,
+          "recovered": 21
+        },
         "delta21_14": {
           "confirmed": 132
         },
         "delta7": {
-          "confirmed": 115,
-          "recovered": 147,
+          "confirmed": 124,
+          "deceased": 1,
+          "recovered": 168,
           "vaccinated1": 3248,
           "vaccinated2": 209
         },
@@ -8947,21 +8972,25 @@
           "population": 118325
         },
         "total": {
-          "confirmed": 1213,
-          "deceased": 6,
-          "recovered": 984,
+          "confirmed": 1222,
+          "deceased": 7,
+          "recovered": 1005,
           "vaccinated1": 22857,
           "vaccinated2": 4130
         }
       },
       "Ribhoi": {
+        "delta": {
+          "confirmed": 12,
+          "recovered": 57
+        },
         "delta21_14": {
           "confirmed": 452
         },
         "delta7": {
-          "confirmed": 716,
+          "confirmed": 728,
           "deceased": 3,
-          "recovered": 397,
+          "recovered": 454,
           "vaccinated1": 5841,
           "vaccinated2": 355
         },
@@ -8969,20 +8998,24 @@
           "population": 258380
         },
         "total": {
-          "confirmed": 6236,
+          "confirmed": 6248,
           "deceased": 36,
-          "recovered": 5299,
+          "recovered": 5356,
           "vaccinated1": 55540,
           "vaccinated2": 4735
         }
       },
       "South Garo Hills": {
+        "delta": {
+          "confirmed": 8,
+          "recovered": 4
+        },
         "delta21_14": {
           "confirmed": 94
         },
         "delta7": {
-          "confirmed": 65,
-          "recovered": 57,
+          "confirmed": 73,
+          "recovered": 61,
           "vaccinated1": 1040,
           "vaccinated2": 72
         },
@@ -8990,21 +9023,25 @@
           "population": 142574
         },
         "total": {
-          "confirmed": 865,
+          "confirmed": 873,
           "deceased": 4,
-          "recovered": 771,
+          "recovered": 775,
           "vaccinated1": 20440,
           "vaccinated2": 3732
         }
       },
       "South West Garo Hills": {
+        "delta": {
+          "confirmed": 8,
+          "recovered": 13
+        },
         "delta21_14": {
           "confirmed": 120
         },
         "delta7": {
-          "confirmed": 40,
+          "confirmed": 48,
           "deceased": 1,
-          "recovered": 71,
+          "recovered": 84,
           "vaccinated1": 4742,
           "vaccinated2": 271
         },
@@ -9012,21 +9049,25 @@
           "population": 172495
         },
         "total": {
-          "confirmed": 1515,
+          "confirmed": 1523,
           "deceased": 13,
-          "recovered": 1424,
+          "recovered": 1437,
           "vaccinated1": 40288,
           "vaccinated2": 4848
         }
       },
       "South West Khasi Hills": {
+        "delta": {
+          "confirmed": 9,
+          "recovered": 6
+        },
         "delta21_14": {
           "confirmed": 122
         },
         "delta7": {
-          "confirmed": 52,
+          "confirmed": 61,
           "deceased": 2,
-          "recovered": 90,
+          "recovered": 96,
           "vaccinated1": 1130,
           "vaccinated2": 110
         },
@@ -9034,21 +9075,25 @@
           "population": 110152
         },
         "total": {
-          "confirmed": 1126,
+          "confirmed": 1135,
           "deceased": 7,
-          "recovered": 986,
+          "recovered": 992,
           "vaccinated1": 21270,
           "vaccinated2": 1549
         }
       },
       "West Garo Hills": {
+        "delta": {
+          "confirmed": 71,
+          "recovered": 35
+        },
         "delta21_14": {
           "confirmed": 411
         },
         "delta7": {
-          "confirmed": 315,
+          "confirmed": 386,
           "deceased": 1,
-          "recovered": 364,
+          "recovered": 399,
           "vaccinated1": 13823,
           "vaccinated2": 1200
         },
@@ -9056,21 +9101,26 @@
           "population": 642923
         },
         "total": {
-          "confirmed": 5457,
+          "confirmed": 5528,
           "deceased": 42,
-          "recovered": 4946,
+          "recovered": 4981,
           "vaccinated1": 131743,
           "vaccinated2": 18607
         }
       },
       "West Jaintia Hills": {
+        "delta": {
+          "confirmed": 19,
+          "deceased": 1,
+          "recovered": 80
+        },
         "delta21_14": {
           "confirmed": 435
         },
         "delta7": {
-          "confirmed": 287,
-          "deceased": 7,
-          "recovered": 359,
+          "confirmed": 306,
+          "deceased": 8,
+          "recovered": 439,
           "vaccinated1": 4912,
           "vaccinated2": 805
         },
@@ -9078,21 +9128,25 @@
           "population": 270352
         },
         "total": {
-          "confirmed": 3906,
-          "deceased": 83,
-          "recovered": 3286,
+          "confirmed": 3925,
+          "deceased": 84,
+          "recovered": 3366,
           "vaccinated1": 48678,
           "vaccinated2": 6242
         }
       },
       "West Khasi Hills": {
+        "delta": {
+          "confirmed": 27,
+          "recovered": 14
+        },
         "delta21_14": {
           "confirmed": 69
         },
         "delta7": {
-          "confirmed": 135,
+          "confirmed": 162,
           "deceased": 3,
-          "recovered": 97,
+          "recovered": 111,
           "vaccinated1": 1777,
           "vaccinated2": 154
         },
@@ -9100,9 +9154,9 @@
           "population": 385601
         },
         "total": {
-          "confirmed": 1324,
+          "confirmed": 1351,
           "deceased": 17,
-          "recovered": 1113,
+          "recovered": 1127,
           "vaccinated1": 49877,
           "vaccinated2": 6014
         }
@@ -9110,18 +9164,18 @@
     },
     "meta": {
       "date": "2021-07-07",
-      "last_updated": "2021-07-06T16:17:19+05:30",
+      "last_updated": "2021-07-07T14:48:20+05:30",
       "population": 3224000,
       "tested": {
-        "date": "2021-07-06",
-        "source": "https://t.me/Covid19india_Auxiliary_Test_Data/9446"
+        "date": "2021-07-07",
+        "source": "https://t.me/Covid19india_Auxiliary_Test_Data/9459"
       }
     },
     "total": {
-      "confirmed": 52358,
-      "deceased": 880,
-      "recovered": 47173,
-      "tested": 720409,
+      "confirmed": 52712,
+      "deceased": 886,
+      "recovered": 47597,
+      "tested": 724438,
       "vaccinated1": 674909,
       "vaccinated2": 88768
     }
@@ -10637,7 +10691,8 @@
   },
   "MZ": {
     "delta": {
-      "confirmed": 301
+      "confirmed": 301,
+      "tested": 3549
     },
     "delta21_14": {
       "confirmed": 2499
@@ -10646,7 +10701,7 @@
       "confirmed": 2080,
       "deceased": 5,
       "recovered": 2195,
-      "tested": 24736,
+      "tested": 28285,
       "vaccinated1": 36278,
       "vaccinated2": 11278
     },
@@ -10886,15 +10941,15 @@
       "last_updated": "2021-07-07T12:10:13+05:30",
       "population": 1192000,
       "tested": {
-        "date": "2021-07-06",
-        "source": "https://twitter.com/dipr_mizoram/status/1412222341434646531"
+        "date": "2021-07-07",
+        "source": "DIPRMizoram on Twitter: \"▶️Number of samples tested at ZMC RTPCR lab: 1009 ▶️Number of samples tested at TrueNAT labs : 207 ▶️Number of Rapid Antigen Test administered : 2333 ➡️Positivity rate: 8.48% ➡️Number of positives per 1000 population: 20\" / Twitter"
       }
     },
     "total": {
       "confirmed": 22155,
       "deceased": 98,
       "recovered": 18383,
-      "tested": 503176,
+      "tested": 506725,
       "vaccinated1": 554964,
       "vaccinated2": 65647
     }
@@ -11230,7 +11285,8 @@
   "OR": {
     "delta": {
       "confirmed": 2602,
-      "deceased": 59
+      "deceased": 59,
+      "tested": 74468
     },
     "delta21_14": {
       "confirmed": 23885
@@ -11239,7 +11295,7 @@
       "confirmed": 19988,
       "deceased": 340,
       "recovered": 19822,
-      "tested": 428825,
+      "tested": 503293,
       "vaccinated1": 553481,
       "vaccinated2": 357181
     },
@@ -12135,15 +12191,15 @@
       "notes": "[July 12th] :20 non-covid deaths reported in state dashboard are included in the deceased count",
       "population": 43671000,
       "tested": {
-        "date": "2021-07-06",
-        "source": "https://t.me/Covid19india_Auxiliary_Test_Data/9448"
+        "date": "2021-07-07",
+        "source": "https://t.me/Covid19india_Auxiliary_Test_Data/9458"
       }
     },
     "total": {
       "confirmed": 929788,
       "deceased": 4411,
       "recovered": 897362,
-      "tested": 14188695,
+      "tested": 14263163,
       "vaccinated1": 10421760,
       "vaccinated2": 2505430
     }
@@ -12755,7 +12811,8 @@
     "delta": {
       "confirmed": 189,
       "deceased": 2,
-      "recovered": 225
+      "recovered": 225,
+      "tested": 6756
     },
     "delta21_14": {
       "confirmed": 2005
@@ -12764,7 +12821,7 @@
       "confirmed": 1167,
       "deceased": 16,
       "recovered": 1752,
-      "tested": 43551,
+      "tested": 50307,
       "vaccinated1": 23570,
       "vaccinated2": 17555
     },
@@ -12899,15 +12956,15 @@
       "last_updated": "2021-07-07T12:10:15+05:30",
       "population": 1504000,
       "tested": {
-        "date": "2021-07-06",
-        "source": "https://t.me/Covid19india_Auxiliary_Test_Data/9437"
+        "date": "2021-07-07",
+        "source": "https://t.me/Covid19india_Auxiliary_Test_Data/9458"
       }
     },
     "total": {
       "confirmed": 118416,
       "deceased": 1765,
       "recovered": 114898,
-      "tested": 1359847,
+      "tested": 1366603,
       "vaccinated1": 463896,
       "vaccinated2": 84623
     }
@@ -15405,7 +15462,8 @@
     "delta": {
       "confirmed": 461,
       "deceased": 4,
-      "recovered": 472
+      "recovered": 472,
+      "tested": 7724
     },
     "delta21_14": {
       "confirmed": 2755
@@ -15414,7 +15472,7 @@
       "confirmed": 2842,
       "deceased": 24,
       "recovered": 2451,
-      "tested": 45902,
+      "tested": 53626,
       "vaccinated1": 62061,
       "vaccinated2": 30279
     },
@@ -15674,8 +15732,8 @@
       "notes": "[Aug 4]: Tripura bulletin for the previous day is released on the next day. We will add the cases for Tripura against the date of release, as that is the convention that we are following for other states.",
       "population": 3992000,
       "tested": {
-        "date": "2021-07-06",
-        "source": "https://t.me/Covid19india_Auxiliary_Test_Data/9436"
+        "date": "2021-07-07",
+        "source": "https://t.me/Covid19india_Auxiliary_Test_Data/9456"
       }
     },
     "total": {
@@ -15683,32 +15741,32 @@
       "deceased": 698,
       "other": 63,
       "recovered": 63901,
-      "tested": 1326395,
+      "tested": 1334119,
       "vaccinated1": 2017992,
       "vaccinated2": 624699
     }
   },
   "TT": {
     "delta": {
-      "confirmed": 3553,
-      "deceased": 65,
-      "recovered": 697
+      "confirmed": 3907,
+      "deceased": 71,
+      "recovered": 1121
     },
     "delta21_14": {
       "confirmed": 382603
     },
     "delta7": {
-      "confirmed": 255689,
-      "deceased": 4816,
+      "confirmed": 256043,
+      "deceased": 4822,
       "other": 195,
-      "recovered": 310847,
+      "recovered": 311271,
       "tested": 11310603,
       "vaccinated1": 17606952,
       "vaccinated2": 8000577
     },
     "meta": {
       "date": "2021-07-07",
-      "last_updated": "2021-07-07T12:10:11+05:30",
+      "last_updated": "2021-07-07T14:48:15+05:30",
       "population": 1332900000,
       "tested": {
         "date": "2021-07-06",
@@ -15716,10 +15774,10 @@
       }
     },
     "total": {
-      "confirmed": 30666457,
-      "deceased": 404305,
+      "confirmed": 30666811,
+      "deceased": 404311,
       "other": 12173,
-      "recovered": 29792688,
+      "recovered": 29793112,
       "tested": 423332097,
       "vaccinated1": 293706832,
       "vaccinated2": 67616716
